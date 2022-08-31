@@ -13,7 +13,7 @@ I have previous experience working as a dev, Bi consultant and some Data Science
 
 - I'm coding my own Python library to make Azure Tables a more accessible technology (linking it with Pandas), as I think it is really underused and not taken into consideration enough. https://pypi.org/project/pdAzTables/
 
-- I'm also the nerd with most answers on StackOverflow in the Data Factory v2 tag! 😄 https://stackoverflow.com/tags/azure-data-factory-2/topusers
+- I'm also the nerd with most answers on StackOverflow in the Data Factory V2 tag! 😄 https://stackoverflow.com/tags/azure-data-factory-2/topusers
 
 - &#x270d; I like writing blogs about data and general cloud configuration. Almost always it is in Spanish but Google Translate will make sure you can read them in any language 😄. Here are my blog posts:
 	- https://blog.ladataweb.com.ar/post/661683537610784768/databricks-paper-lakehouse
