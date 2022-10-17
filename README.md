@@ -18,6 +18,7 @@ I have previous experience working as a dev, Bi consultant and some Data Science
 - I'm a fan of building small tools to help people in everyday things, the most recent example is my Telegram chatbot. Just send it a picture and the bot will return the same image but mirrored! There are a lot of tools to do this but most non-technical people struggle with these sort of things. Useful when taking a selfie against a sign!! 😄 Use it for free here: http://t.me/imageflippy_bot
 
 - &#x270d; I like writing blogs about data and general cloud configuration. Almost always it is in Spanish but Google Translate will make sure you can read them in any language 😄. Here are my blog posts:
+	- https://blog.ladataweb.com.ar/post/695295016923463680/azuredatafactory-invocar-procesamiento-externo
 	- https://blog.ladataweb.com.ar/post/661683537610784768/databricks-paper-lakehouse
 	- https://blog.ladataweb.com.ar/post/188045227735/get-access-token
 	- https://blog.ladataweb.com.ar/post/625523883325407232/data-factory-que-es-que-no-es
