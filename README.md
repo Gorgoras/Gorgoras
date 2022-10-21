@@ -13,6 +13,12 @@ I have previous experience working as a dev, Bi consultant and some Data Science
 
 - I'm coding my own Python library to make Azure Tables a more accessible technology (linking it with Pandas), as I think it is really underused and not taken into consideration enough. https://pypi.org/project/pdAzTables/
 
+- I've also contributed my fair share to open source tools and projects I've been working with. Some of the most notable ones are:
+	- https://github.com/PiConsulting/Pensadero
+	- https://github.com/ladataweb/SimplePBI
+	- https://github.com/SQLPlayer/azure.datafactory.tools
+	- https://github.com/microsoft/vscode-iot-workbench
+
 - I'm also the nerd with most answers on StackOverflow in the Data Factory V2 tag! 😄 https://stackoverflow.com/tags/azure-data-factory-2/topusers
 
 - I'm a fan of building small tools to help people in everyday things, the most recent example is my Telegram chatbot. Just send it a picture and the bot will return the same image but mirrored! There are a lot of tools to do this but most non-technical people struggle with these sort of things. Useful when taking a selfie against a sign!! 😄 Use it for free here: http://t.me/imageflippy_bot
