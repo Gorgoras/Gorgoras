@@ -8,8 +8,9 @@ I have previous experience working as a dev, Bi consultant and some Data Science
 
 - 🌱 Always learning something new on Azure ![Azure][1.1], Python ![Python][1.2] and Databricks![DataBricks][1.3]!! I have some useful repos and gists (and some not so useful), so feel free to use anything you find here.
 
-- Azure Certified Data Engineer! 
-![Data-Eng][1.4]
+- Azure Certified Data Engineer and Administrator! 
+![Data-Eng][1.4] ![Data-Admin][1.5]
+https://www.credly.com/users/martin-zurita
 
 - I'm coding my own Python library to make Azure Tables a more accessible technology (linking it with Pandas), as I think it is really underused and not taken into consideration enough. https://pypi.org/project/pdAzTables/
 
@@ -43,3 +44,4 @@ I have previous experience working as a dev, Bi consultant and some Data Science
 [1.2]: https://i.imgur.com/FFTB43q.png      (python logo)
 [1.3]: https://i.imgur.com/HHsUaOB.png?1    (databricks logo)
 [1.4]: https://i.imgur.com/YVBWmlZ.png?1    (azure data engineering logo)
+[1.5]: https://i.imgur.com/jtpBVW4.png?1    (azure data admin logo)
