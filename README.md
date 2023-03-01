@@ -44,5 +44,5 @@ I have previous experience working as a dev, Bi consultant and some Data Science
 [1.1]: https://i.imgur.com/cZuNSlU.png      (azure logo)
 [1.2]: https://i.imgur.com/FFTB43q.png      (python logo)
 [1.3]: https://i.imgur.com/HHsUaOB.png?1    (databricks logo)
-[1.4]: https://i.imgur.com/FSpBbUs.png?1    (azure data engineering logo)
+[1.4]: https://i.imgur.com/CZa0jGz.png?1    (azure data engineering logo)
 [1.5]: https://i.imgur.com/Z528Zpo.png?1    (azure data admin logo)
